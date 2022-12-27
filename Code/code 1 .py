@@ -6,4 +6,4 @@ print("my age is 12")
 print("hello world ")
 print('g')
 
-print('g')
+print('mmm')
